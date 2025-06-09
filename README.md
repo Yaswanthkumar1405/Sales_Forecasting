@@ -14,10 +14,16 @@ This project focuses on forecasting monthly sales using Time Series analysis on 
 
 ## 📁 Project Structure
 
+<details>
+<summary>Click to expand</summary>
+
+```text
 Sales_Forecasting/
-├── data/                     # Dataset (.csv)
 │
-├── notebook/                 # Jupyter Notebook + Forecast CSV
+├── data/                      # Dataset (.csv)
+│   └── Sample - Superstore.csv
+│
+├── notebook/                  # Jupyter Notebook + Forecast CSV
 │   ├── Sales_Forecast.ipynb
 │   └── sales_forecast.csv
 │
@@ -27,7 +33,8 @@ Sales_Forecasting/
 │   ├── sarima_forecast_plot.png
 │   └── decomposition_plot.png
 │
-└── README.md                 # Project overview
+├── README.md                 # Project overview
+└── .gitignore                # (Optional) ignore system files
 
 
 
