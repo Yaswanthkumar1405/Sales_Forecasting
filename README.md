@@ -36,6 +36,9 @@ Sales_Forecasting/
 ├── README.md                 # Project overview
 └── .gitignore                # (Optional) ignore system files
 
+```
+</details>
+
 
 
 ---
