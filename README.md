@@ -131,6 +131,3 @@ jupyter notebook notebook/Sales_Forecast.ipynb
 🔗 [LinkedIn](https://www.linkedin.com/in/yaswanth-kumar-chaganti)  
 💻 [GitHub](https://github.com/Yaswanthkumar1405)
 
----
-
-You're all set to replace the existing `README.md` in your Sales Forecasting repo with this one. Let me know if you want a `.md` download version too!
